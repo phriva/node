@@ -1,0 +1,1 @@
+console.log("ola Bruce wayne");
