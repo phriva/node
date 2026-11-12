@@ -101,3 +101,9 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<b>Extra:</b>
+
+<input type="checkbox" id="vitoria-item" />
+<label for="vitoria-item">Os dois personagens são escolhidos aleatoriamente.</label>
+<p>Criei um arquivo json onde coloquei todos os jogadores e construi uma logica para sortear aleatoriamente dois jogadores diferentes.</p>
